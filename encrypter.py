@@ -19,5 +19,5 @@ def encrpyt():
     for val in encrypted_acssi_value:
         res = res + chr(val)
     print(res)
-    exit()
+  
 
