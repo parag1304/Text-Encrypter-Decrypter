@@ -1,5 +1,5 @@
-from encrypter import encrpyt
-from decrypter import decrypt
+import encrypter
+import decrypter
 while(True):
     print("HI, Do you want to encrpyt(e) or decrypt(d) or exit(ex) ")
     choice = input()
